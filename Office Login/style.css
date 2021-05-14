@@ -11,7 +11,7 @@
 
 .row_entire {
     height: 100%;
-    margin: 100px auto;
+    margin: auto;
     justify-content: center;
     align-items: center;
 }
